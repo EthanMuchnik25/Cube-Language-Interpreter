@@ -15,7 +15,7 @@ This may seem a bit complex though an example below should help out a bit.
 ## Examples
 
 ### Example 1
-
+```
 5     .......
       .     .
       .     .
@@ -41,7 +41,7 @@ This may seem a bit complex though an example below should help out a bit.
       .     .
       .     .
       .......
-
+```
 The output Here is 9.
 
 As an exercise try to see how the answer was obtained
